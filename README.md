@@ -32,3 +32,7 @@ The script looks for a text layer named `hexValue` in the active composition. It
 2. Create or open a composition and add a text layer named `hexValue`.
 3. Type a hex color value into the text layer (for example: `#FF6600`).
 4. Run the script. A prompt window will appear with the converted RGBA array.
+
+## License
+
+MIT — see [LICENSE](LICENSE)
